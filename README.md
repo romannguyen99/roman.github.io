@@ -4,8 +4,8 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 <img width = "180" src = "assets/img/IMG_9705.JPG">
 
 ### 📚 Table of Contents
-- [Data Science in Finance](#machine-learning)
-- [Data Analysis & Visualization](#data-analytics-with-visualization)
+- [Machine Learning](#machine-learning)
+- [Data Analytics with Visualization](#data-analytics-with-visualization)
 
 ## Machine Learning
 
