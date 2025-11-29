@@ -1,0 +1,12 @@
+@import "{{ site.theme }}";
+
+.profile-img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%; /* Makes it circular */
+  border: 2px solid white;
+  margin-bottom: 20px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
