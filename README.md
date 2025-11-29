@@ -1,4 +1,4 @@
-# Roman's portfolio
+# Hi, I'm Roman
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 <img width = "180" src = "assets/img/IMG_9705.JPG">
