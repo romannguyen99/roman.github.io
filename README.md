@@ -1,10 +1,12 @@
-# Roman's porfolio
+# Roman's portfolio
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+![my pic](assets/img/IMG_9705.JPG)
+
 ### 📚 Table of Contents
 - [Data Science in Finance](#data-science-in-finance)
 - [Data Analysis & Visualization](#data-analysis-and-visualization)
 
-## Data Science in Finance
+## Machine Learning
 
 | Project Link | Skills | Area of analysis | Project Description | 
 |---|---|---|---|
