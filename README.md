@@ -1,7 +1,10 @@
 # Roman Nguyen
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field.
+Hi! I am Roman, a Data Analyst helping drive business decisions at HouseNow and CarNow. I help to power the Vietnam’s first AI fintech solutions for the housing and automotive markets.
+Why data? Because I am amazed with how data can be used to predict a credit risk or a stock trend better than a gut feeling ever could. Whether I’m analyzing user behaviors or building finance models, I love digging for the "aha!" moment that drives better decisions. Off the clock, I’m a world traveler, a pianist, and a fitness enthusiast.
 
 <img width="180" src="assets/img/IMG_9705.JPG" alt="Profile Picture">
+
+Here, I document a summary of my projects ranging from financial strategies to business overviews.
 
 ### 📚 Table of Contents
 - [Machine Learning](#machine-learning)
