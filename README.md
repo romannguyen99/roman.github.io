@@ -1,4 +1,4 @@
-# Hi, I'm Roman
+# Roman Nguyen
 Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
 
 <img width = "180" src = "assets/img/IMG_9705.JPG">
@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Skills | Area of analysis | Project Description | 
 |---|---|---|---|
 | 💰📈 [S&P500 Trading Strategy](https://github.com/romannguyen99/Finance-Trading-Strategy/blob/main/Quantitative_investment_strategy.ipynb)| Python, Data Analysis, Machine Learning (Unsupervised learning)  | Quantitative Finance, Market Analysis, Risk Management | A quantitative trading strategy for equities, specifically targeting S&P 500 stocks. It involves collecting daily price data, calculating technical indicators and Fama-French factor betas, and applying monthly K-Means clustering to group stocks by behavioral characteristics. The strategy selects potential stocks to optimize financial portfolio against the SPY benchmark. The goal is to outperform the market with better returns and controlled risk.|
-
+|🏅📈[Gold Price Prediction](https://github.com/romannguyen99/Data-Science-in-Finance/blob/main/Predict_gold_price/Gold_price_Predictions.ipynb)|Data Pre-processing, Machine Learning (KNN, XGBoost, Random Forest), Model Evaluation, Data Visualization|Market analysis, Time-series Forecasting|Developed and evaluated ML models (XGBoost, Random Forest) for gold price trend prediction using technical indicators. Focused on feature engineering, model performance, and identified key predictors (volatility, momentum, volume). Addressed overfitting and outlined strategies for model enhancement.|
 ***
 
 ## Data Analytics with Visualization
