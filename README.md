@@ -1,15 +1,20 @@
 # Roman Nguyen
-Hi! 🙋‍♂️ I am Roman, a Data Analyst helping to drive business decisions at 🏠 HouseNow and 🚘 CarNow. I help to power the Vietnam’s first AI fintech solutions for the housing and automotive markets.
-
-🤔 Why data? Because I am amazed with how data can be used to predict a credit risk or a stock trend better than a gut feeling ever could! Whether I’m analyzing user behaviors or building finance models, I enjoy digging for "found 'em!" moments which reveal solutions to optimize profits 🤑. Off the clock, I am also a world traveler 🌏 and a fitness enthusiast 🏋️‍♂️.
+Hi! 🙋‍♂️ my name is Roman, I am on my way to be a Data Scientist with a deep passion for machine learning and AI. I specialize in building data-driven applications and predictive models, with a strong personal interest in financial forecasting and stock market analysis.
 
 <img width="180" src="assets/img/IMG_9705.JPG" alt="Profile Picture">
 
 Here, I document a summary of my projects ranging from financial strategies to business overviews.
 
 ### 📚 Table of Contents
+- [Artificial Intelligence](#artificial-intelligence)
 - [Machine Learning](#machine-learning)
 - [Data Analytics with Visualization](#data-analytics-with-visualization)
+
+## Artificial Intelligence
+
+| Project Link | Description | Skills | AI Product |
+|---|---|---|---|
+| 🕵️‍♂️⚙️ [Facebook Content AI Analyst](https://github.com/romannguyen99/facebook-spy-agent) | An AI agent developed to automate competitor social media analysis. The tool extracts post data from targeted Facebook pages and utilises LLM to conduct deep analysis of content strategy and engagement metrics (likes, comments, shares) for marketing teams. | Python, LangChain, Gemini API, Streamlit | [Link product](https://roman-spy-fb.streamlit.app/) |
 
 ## Machine Learning
 
